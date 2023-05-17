@@ -2,7 +2,7 @@ Hola!&nbsp;&nbsp;&nbsp;![](https://github.com/ledesidium/desi-portfolio/blob/mai
 ===========================================================================================
 
 * 👤 &nbsp; Mis pronombres son elle (they/them) [](https://raw.githubusercontent.com/ledesidium/desi-portfolio/df42837323b9c314da8ffa4afa829e3456a99c21/img/nonbinary-symbol.svg)
-* 🌎 &nbsp; Vivo en Buenos Aires, Argentina
+* 🌎 &nbsp; Vivo en Buenos Aires, Argentina.
 * 🤝 &nbsp; Me interesa particularmente la educación, la inclusión y compartir libremente conocimientos.
 * 🗣️ &nbsp; Hablo español nativo e inglés fluido. / I'm a native spanish speaker, fluent in english.
 * 🧠 &nbsp; Actualmente estoy estudiando y aprendiendo desarrollo web.
