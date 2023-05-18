@@ -1,7 +1,7 @@
-Hola!&nbsp;&nbsp;&nbsp;![](https://github.com/ledesidium/desi-portfolio/blob/main/img/hiemoji.gif) &nbsp; Soy Desi 💗
+Hola!&nbsp;&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="50" height="50">&nbsp; Soy Desi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f497/512.gif" alt="💗" width="30" height="30">
 ===========================================================================================
 
-* 👤 &nbsp; Mis pronombres son elle (they/them) [](https://raw.githubusercontent.com/ledesidium/desi-portfolio/df42837323b9c314da8ffa4afa829e3456a99c21/img/nonbinary-symbol.svg)
+* <img src="https://raw.githubusercontent.com/ledesidium/desi-portfolio/072789897f7b3de5505ba35f4862cd711eb10e67/img/nonbinary-flag.svg" alt="non binary symbol" width="20" height="20"> &nbsp; Mis pronombres son elle (they/them).
 * 🌎 &nbsp; Vivo en Buenos Aires, Argentina.
 * 🤝 &nbsp; Me interesa particularmente la educación, la inclusión y compartir libremente conocimientos.
 * 🗣️ &nbsp; Hablo español nativo e inglés fluido. / I'm a native spanish speaker, fluent in english.
